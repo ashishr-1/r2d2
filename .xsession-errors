@@ -232,3 +232,21 @@ gpg-agent: a gpg-agent is already running - not starting a new one
 ** (light-locker:2925): ERROR **: 03:46:30.360: Environment variable XDG_SESSION_PATH not set. Is LightDM running?
 
 (nm-applet:2919): Gdk-CRITICAL **: 03:46:30.685: gdk_window_thaw_toplevel_updates: assertion 'window->update_and_descendants_freeze_count > 0' failed
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[7456:7456:0617/044412.693439:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[7488:7488:0617/044413.003953:ERROR:viz_main_impl.cc(161)] Exiting GPU process due to errors during initialization
+libva error: vaGetDriverNameByIndex() failed with unknown libva error, driver_name = (null)
+[7574:7574:0617/044413.115177:ERROR:sandbox_linux.cc(376)] InitializeSandbox() called with multiple threads in process gpu-process.
+[7414:7442:0617/044419.653593:ERROR:chrome_browser_main_extra_parts_metrics.cc(226)] crbug.com/1216328: Checking Bluetooth availability started. Please report if there is no report that this ends.
+[7414:7442:0617/044419.653616:ERROR:chrome_browser_main_extra_parts_metrics.cc(229)] crbug.com/1216328: Checking Bluetooth availability ended.
+[7414:7442:0617/044419.653624:ERROR:chrome_browser_main_extra_parts_metrics.cc(232)] crbug.com/1216328: Checking default browser status started. Please report if there is no report that this ends.
+[7414:7442:0617/044419.707913:ERROR:chrome_browser_main_extra_parts_metrics.cc(236)] crbug.com/1216328: Checking default browser status ended.
+[7574:7574:0617/044428.127352:ERROR:gl_utils.cc(318)] [.WebGL-0x16ea008fc700]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[7574:7574:0617/044428.689198:ERROR:gl_utils.cc(318)] [.WebGL-0x16ea008fc700]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[7574:7574:0617/044938.011618:ERROR:gl_utils.cc(318)] [.WebGL-0x16ea008fdc00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels
+[7574:7574:0617/044938.462852:ERROR:gl_utils.cc(318)] [.WebGL-0x16ea008fdc00]GL Driver Message (OpenGL, Performance, GL_CLOSE_PATH_NV, High): GPU stall due to ReadPixels (this message will no longer repeat)
+
+** (xiccd:2931): WARNING **: 05:33:15.530: EDID is empty
+
+** (xiccd:2931): WARNING **: 05:33:15.531: EDID is empty

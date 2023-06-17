@@ -306,3 +306,52 @@ X Protocol Version 11, Revision 0
 [  3004.192] rdpkeybBell:
 [  3004.709] rdpkeybBell:
 [  3004.709] rdpkeybBell:
+[  3024.342] rdpkeybBell:
+[  3024.342] rdpkeybBell:
+[  3024.487] rdpkeybBell:
+[  3024.487] rdpkeybBell:
+[  3380.456] rdpkeybBell:
+[  3380.456] rdpkeybBell:
+[  3423.519] rdpkeybBell:
+[  3423.520] rdpkeybBell:
+[  3423.640] rdpkeybBell:
+[  3423.640] rdpkeybBell:
+[  3423.769] rdpkeybBell:
+[  3423.770] rdpkeybBell:
+[  6736.901] rdpClientConGotConnection:
+[  6736.901] rdpClientConGotConnection: g_sck_accept ok new_sck 36
+[  6736.901] rdpClientConGotConnection: marking only clientCon 0x5563d53b04a0 for disconnect
+[  6736.901] rdpClientConGetConnection: idle_disconnect_timeout set to non-positive value, idle timer turned off
+[  6736.901] rdpAddClientConToDev: adding clientCon 0x5563d66be3b0
+[  6736.901] rdpClientConDisconnect:
+[  6736.901] rdpRemoveClientConFromDev: removing clientCon 0x5563d53b04a0
+[  6736.920] rdpClientConProcessMsgVersion: version 0 0 0 1
+[  6736.920] rdpClientConProcessScreenSizeMsg: set width 1680 height 887 bpp 16
+[  6736.920] rdpClientConProcessScreenSizeMsg: shmemid 32786 shmemptr 0x7f8b6f778000
+[  6736.920] rdpClientConProcessMsgClientInput: invalidate x 0 y 0 cx 1680 cy 887
+[  6737.068] rdpClientConProcessMsgClientInfo:
+[  6737.068]   got client info bytes 5752
+[  6737.068]   jpeg support 0
+[  6737.068]   offscreen support 0
+[  6737.068]   offscreen size 0
+[  6737.068]   offscreen entries 0
+[  6737.068]   client supports glyph cache but server disabled
+[  6737.068]   client can not do offscreen to offscreen blits
+[  6737.068]   client can do new(color) cursor
+[  6737.068]   client can not do multimon
+[  6737.068] rdpRRSetRdpOutputs: numCrtcs 1 numOutputs 1 monitorCount 0
+[  6737.068] rdpRRSetRdpOutputs: update output 0 left 0 top 0 width 1680 height 887
+[  6737.068] rdpRRUpdateOutput:
+[  6737.068] rdpLoadLayout: keylayout 0x00000409 variant  display 10
+[  6737.069] rdpkeybChangeKeyboardControl:
+[  6737.069] rdpkeybChangeKeyboardControl: autoRepeat on
+[  6737.074] rdpkeybChangeKeyboardControl:
+[  6737.075] rdpkeybChangeKeyboardControl: autoRepeat on
+[  6737.078] rdpRRGetInfo:
+[  6737.080] rdpRRGetInfo:
+[  6737.169] rdpInDeferredRepeatCallback:
+[  6737.169] rdpkeybChangeKeyboardControl:
+[  6737.169] rdpkeybChangeKeyboardControl: autoRepeat off
+[  6737.175] rdpInDeferredRepeatCallback:
+[  6737.175] rdpkeybChangeKeyboardControl:
+[  6737.175] rdpkeybChangeKeyboardControl: autoRepeat off
